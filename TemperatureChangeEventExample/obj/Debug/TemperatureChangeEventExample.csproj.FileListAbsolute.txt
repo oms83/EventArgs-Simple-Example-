@@ -1,0 +1,7 @@
+C:\Users\omerm\Desktop\Advanced Concepts In C#\TemperatureChangeEventExample\bin\Debug\TemperatureChangeEventExample.exe.config
+C:\Users\omerm\Desktop\Advanced Concepts In C#\TemperatureChangeEventExample\bin\Debug\TemperatureChangeEventExample.exe
+C:\Users\omerm\Desktop\Advanced Concepts In C#\TemperatureChangeEventExample\bin\Debug\TemperatureChangeEventExample.pdb
+C:\Users\omerm\Desktop\Advanced Concepts In C#\TemperatureChangeEventExample\obj\Debug\TemperatureChangeEventExample.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\Advanced Concepts In C#\TemperatureChangeEventExample\obj\Debug\TemperatureChangeEventExample.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\Advanced Concepts In C#\TemperatureChangeEventExample\obj\Debug\TemperatureChangeEventExample.exe
+C:\Users\omerm\Desktop\Advanced Concepts In C#\TemperatureChangeEventExample\obj\Debug\TemperatureChangeEventExample.pdb

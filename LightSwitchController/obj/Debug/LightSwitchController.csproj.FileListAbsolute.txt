@@ -1,0 +1,7 @@
+C:\Users\omerm\Desktop\Advanced Concepts In C#\LightSwitchController\bin\Debug\LightSwitchController.exe.config
+C:\Users\omerm\Desktop\Advanced Concepts In C#\LightSwitchController\bin\Debug\LightSwitchController.exe
+C:\Users\omerm\Desktop\Advanced Concepts In C#\LightSwitchController\bin\Debug\LightSwitchController.pdb
+C:\Users\omerm\Desktop\Advanced Concepts In C#\LightSwitchController\obj\Debug\LightSwitchController.csproj.AssemblyReference.cache
+C:\Users\omerm\Desktop\Advanced Concepts In C#\LightSwitchController\obj\Debug\LightSwitchController.csproj.CoreCompileInputs.cache
+C:\Users\omerm\Desktop\Advanced Concepts In C#\LightSwitchController\obj\Debug\LightSwitchController.exe
+C:\Users\omerm\Desktop\Advanced Concepts In C#\LightSwitchController\obj\Debug\LightSwitchController.pdb
